@@ -7,24 +7,23 @@
 </p>
 </p>
 <h3>Hi there! My name is Tuan Anh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
-<h5>A Fullstack Developer</h5>
 <!--<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>-->
 <!--<img src="https://github.githubassets.com/images/modules/site/home/globe.jpg" width="100%" /> -->
 
 ---
 
-### 👨‍💻&nbsp;About Me :
+### 👨‍💻&nbsp;About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ho Chi Minh, Viet Nam.
+I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ho Chi Minh, Viet Nam.
 
-- 🔭 I’m currently studying at the University of Information Technology as a 4th student.
+- 🔭 I am currently studying at the University of Information Technology as a 4th student.
 - 🌱 Learning new technologies and improving my abilities.
 - ⚡ In my free time I learn programming, exercise and read books.
 - 📫 How to reach me: &nbsp; [![Facebook Badge](https://img.shields.io/badge/-Đỗ_Tuấn_Anh-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/tuananh2202)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -32,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -43,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Status
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotuananh22&layout=compact&theme=vision-friendly-dark" />
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dotuananh22&theme=dark&background=000000" />
 
@@ -51,5 +50,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🏆 Achievement : 
-<!--- 🏅TOP 1 FPT TECHDAY 2020_CODE WARRIOR_QUALIFYING ROUND-->
+### 🏆 Achievement
+Coming soon...
+<!--- 🏅-->
